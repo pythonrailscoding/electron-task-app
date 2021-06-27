@@ -1,5 +1,5 @@
 # This is an App build [Electron.js](https://www.electronjs.org/)
-<hr>
+
 <h2>This Project Setup</h2>
 
 <ul>
