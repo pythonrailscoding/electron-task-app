@@ -1,0 +1,14 @@
+{
+  "name": "desktopelectronjshello",
+  "version": "1.0.0",
+  "description": "shoppinglist",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Shriyansh Purohit",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^13.1.4"
+  }
+}
