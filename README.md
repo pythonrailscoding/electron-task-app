@@ -1,4 +1,4 @@
-# This is an App build [Electron.js](https://www.electronjs.org/)
+# This is an App build in [Electron.js](https://www.electronjs.org/)
 
 <h2>This Project Setup</h2>
 
